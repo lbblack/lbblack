@@ -1,4 +1,4 @@
-### Howdy 🤘
+### Yo 🤘
 
 Computer Science & Engineering student at University of Nevada, Reno. Former software engineering intern @ Arista Networks and Aruba Networks. Heavy metal and rock n' roll enthusiast. Cryptocurrency investor.
 
