@@ -1,6 +1,6 @@
-### Computer Science & Engineering student at University of Nevada, Reno
+### Howdy 🤘
 
-College student, former software engineering intern @ Arista Networks and Aruba Networks. Heavy metal and rock n' roll enthusiast. Cryptocurrency investor.
+Computer Science & Engineering student at University of Nevada, Reno. Former software engineering intern @ Arista Networks and Aruba Networks. Heavy metal and rock n' roll enthusiast. Cryptocurrency investor.
 
 - 🌱 I’m currently learning object-oriented programming in C++ and electromagnetism.
 - 👯 I’m willing to collaborate on anything worthwhile.
